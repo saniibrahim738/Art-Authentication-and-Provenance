@@ -11,3 +11,5 @@ P
  tests/ai-authentication_.test.ts,b/4/b41a9b6f2ba45822962386b3b6121d104aed12a5
 I
 contracts/provenance.clar,e/a/ea9bd434153c0b422eb7c5d130a91b1b34e409b4
+H
+tests/provenance.test.ts,2/4/2444bddab9f5bd86a99d63c424c580f0801ef8cb
