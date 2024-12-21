@@ -5,3 +5,5 @@ F
 contracts/art-nft.clar,b/8/b8408908036f986c88c52feb010257c7c6c04c15
 E
 tests/art-nft.test.ts,2/d/2dd47bc3bc3c1e54fab032fad7767219ace13773
+Q
+!contracts/ai-authentication_.clar,f/8/f8f170c03be436f170bba714c8f31395bba6d72f
